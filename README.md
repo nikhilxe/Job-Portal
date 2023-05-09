@@ -3,9 +3,7 @@
 
  - don't forget to leave a star ! :)
 
-## Authors
 
-- [Abdullah Moiz](https://www.github.com/Abdullah-moiz)
 
 ## Features
 
